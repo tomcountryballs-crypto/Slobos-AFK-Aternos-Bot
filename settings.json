@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SurvivalCraftOFV.aternos.me",
+    "ip": "SurvivalCraftOFV.aternos.me:29668",
     "port": 29668,
     "version": "",
     "try-creative": false
